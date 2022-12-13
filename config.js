@@ -1,7 +1,7 @@
 module.exports = {
   branches: [
     { name: "main" },
-    { name: "develop", prerelease: "rc" },
+    { name: "develop", channel: false, prerelease: "rc" },
     { name: "+([0-9])?(.{+([0-9]),x}).x" },
   ],
   tagFormat: "${version}",
