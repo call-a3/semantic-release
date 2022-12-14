@@ -1,3 +1,10 @@
+# [1.0.0-rc.2](https://github.com/call-a3/semantic-release/compare/1.0.0-rc.1...1.0.0-rc.2) (2022-12-14)
+
+
+### Bug Fixes
+
+* prevent github actions file from being included in NPM package ([3e48f4f](https://github.com/call-a3/semantic-release/commit/3e48f4f72745e1e1392ce9d70c8ee11f3092cc01))
+
 # 1.0.0-rc.1 (2022-12-14)
 
 
